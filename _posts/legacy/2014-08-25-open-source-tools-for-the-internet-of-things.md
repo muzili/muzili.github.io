@@ -1,3 +1,11 @@
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
+
 If you've been involved with IT in any capacity in recent years, you've
 probably heard the term "Internet of Things," or IoT. According to
 Gartner, IoT is at the [top of the hype
